@@ -1,2 +1,2 @@
 # PWA
-Progressive Web Applications using Amgular
+Progressive Web Applications using Angular
